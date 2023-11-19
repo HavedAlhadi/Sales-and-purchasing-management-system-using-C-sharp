@@ -15,7 +15,7 @@ namespace SuperSoft
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SuperM());
+            Application.Run(new Login());
         }
     }
 }
