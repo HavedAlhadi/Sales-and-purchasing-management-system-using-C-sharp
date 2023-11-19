@@ -1,0 +1,113 @@
+D:\هاهلهاغلر\SuperSoft\bin\Debug\SuperSoft.exe.config
+D:\هاهلهاغلر\SuperSoft\bin\Debug\SuperSoft.exe
+D:\هاهلهاغلر\SuperSoft\bin\Debug\SuperSoft.pdb
+D:\هاهلهاغلر\SuperSoft\bin\Debug\Guna.UI.dll
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.csprojAssemblyReference.cache
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.About.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.ReportSimple.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormItemsSelect.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormRBuycs.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormSImpo.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormSearchCust.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormSalePill.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormFillBuys.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormMangCust.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormAddCust.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormAddImpo.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormAddItemcs.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormMangGU.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormMangImpo.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormMangItems.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.Form_AddGroup.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.SuperM.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormAddUnit.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.FormMangUser.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.Form_AddUser.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.Login.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.MessagBoxH.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.Properties.Resources.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.ReportBuy.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.ReportCust.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.ReportImpo.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.ReportSale.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.tfasel.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.haved_toolreport.resources
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.csproj.GenerateResource.cache
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.csproj.CopyComplete
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.exe
+D:\هاهلهاغلر\SuperSoft\obj\Debug\SuperSoft.pdb
+D:\myprogg\SuperSoft\bin\Debug\SuperSoft.exe.config
+D:\myprogg\SuperSoft\bin\Debug\SuperSoft.exe
+D:\myprogg\SuperSoft\bin\Debug\SuperSoft.pdb
+D:\myprogg\SuperSoft\bin\Debug\Guna.UI.dll
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.csprojAssemblyReference.cache
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.About.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.ReportSimple.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormItemsSelect.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormRBuycs.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormSImpo.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormSearchCust.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormSalePill.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormFillBuys.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormMangCust.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormAddCust.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormAddImpo.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormAddItemcs.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormMangGU.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormMangImpo.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormMangItems.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.Form_AddGroup.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.SuperM.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormAddUnit.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.FormMangUser.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.Form_AddUser.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.Login.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.MessagBoxH.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.Properties.Resources.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.ReportBuy.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.ReportCust.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.ReportImpo.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.ReportSale.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.tfasel.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.haved_toolreport.resources
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.csproj.GenerateResource.cache
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.csproj.CopyComplete
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.exe
+D:\myprogg\SuperSoft\obj\Debug\SuperSoft.pdb
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\bin\Debug\SuperSoft.exe.config
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\bin\Debug\SuperSoft.exe
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\bin\Debug\SuperSoft.pdb
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.csprojAssemblyReference.cache
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.About.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.ReportSimple.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormItemsSelect.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormRBuycs.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormSImpo.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormSearchCust.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormSalePill.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormFillBuys.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormMangCust.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormAddCust.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormAddImpo.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormAddItemcs.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormMangGU.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormMangImpo.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormMangItems.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.Form_AddGroup.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.SuperM.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormAddUnit.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.FormMangUser.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.Form_AddUser.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.Login.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.MessagBoxH.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.Properties.Resources.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.ReportBuy.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.ReportCust.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.ReportImpo.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.ReportSale.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.tfasel.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.haved_toolreport.resources
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.csproj.GenerateResource.cache
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.csproj.CopyComplete
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.exe
+D:\مشروع إدارة المبيعات والمشتريات\SuperSoft\obj\Debug\SuperSoft.pdb
