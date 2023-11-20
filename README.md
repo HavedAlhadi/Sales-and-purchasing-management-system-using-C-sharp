@@ -1,5 +1,5 @@
 # Sales-and-purchasing-management-system-using-C-
-##the description
+## the description:
 The Sales and Purchasing Management System using C# is an application designed to facilitate and organize the sales and purchasing process in companies and organizations. This system provides a user-friendly interface through which users can input, modify, and delete information related to products, customers, suppliers, purchase orders, and sales.
 The project includes a set of key features such as:
 ###1. Product Management:
